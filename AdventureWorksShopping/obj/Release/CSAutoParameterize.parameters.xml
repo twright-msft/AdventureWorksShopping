@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="Database-Web.config Connection String" description="Database Connection String used in web.config by the application to access the database." defaultValue="Data Source=tcp:radtravissandbox.database.windows.net,1433;Initial Catalog=AdventureWorks2014;User Id=radtravis@radtravissandbox;Password=SMX#2001" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="c:\\users\\twright\\documents\\visual\ studio\ 2015\\Projects\\AdventureWorksShopping\\AdventureWorksShopping\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='Database']/@connectionString" />
+  </parameter>
+</parameters>
